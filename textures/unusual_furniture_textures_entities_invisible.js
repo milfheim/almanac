@@ -1,0 +1,1 @@
+AOA.texture("unusual_furniture_textures_entities_invisible",{"w":16,"h":16,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAFElEQVR4XmMYBaMhMBoCoyEADQEABBAAARoBYpAAAAAASUVORK5CYII="]);

@@ -1,0 +1,1 @@
+AOA.texture("hybrid_aquatic_textures_entity_critter_starfish_starfish_brittlestar_yellow",{"w":16,"h":16,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAY0lEQVR4XmMAgeUxTv8Z0MD/K4v//39zDUOcgRQAMoSQehZsCv6vivvPoOXKwCBhzEAWIMZmmMFMWG24tpuBWEMYYQZcaIxECTCD+uWMxDifiYFCwIhuM7p5xLqEYRSM6BAAAEuPITSWK8tbAAAAAElFTkSuQmCC"]);

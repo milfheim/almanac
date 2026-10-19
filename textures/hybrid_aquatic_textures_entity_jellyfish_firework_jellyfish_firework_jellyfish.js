@@ -1,0 +1,1 @@
+AOA.texture("hybrid_aquatic_textures_entity_jellyfish_firework_jellyfish_firework_jellyfish",{"w":32,"h":32,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZElEQVR4XmMYBaMhMBoCoyEwGgKjITAaAqMhAAoBV4Oi2dhoYkIHXS/JIRpmPx2r5TBxfAbCLEc3gxRHMK06mJkK0iDIr8qATMPE8RkG04Nuxmi6Gg2B0RAYDYHREBgNgSEVAgCj/RqplLHhUQAAAABJRU5ErkJggg=="]);

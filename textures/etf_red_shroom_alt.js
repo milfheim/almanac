@@ -1,0 +1,1 @@
+AOA.texture("etf_red_shroom_alt",{"w":32,"h":16,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAQCAYAAAB3AH1ZAAAAHElEQVR4XmMYBaMhMBoCoyEwGgKjITAaAiM+BAAIEAAB/u3U7QAAAABJRU5ErkJggg=="]);

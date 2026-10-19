@@ -1,0 +1,1 @@
+AOA.texture("hybrid_aquatic_textures_entity_fish_anglerfish_anglerfish_glowmask",{"w":32,"h":32,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAO0lEQVR4XmMYBbQIga9Xe/+PhuxoCIyGwGgIjIbAaAiMhsBoCIyGAF1CYLTpNZrQRkNgNARGQ4AaIQAADu8Grcocb88AAAAASUVORK5CYII="]);

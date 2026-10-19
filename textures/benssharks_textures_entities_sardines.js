@@ -1,0 +1,1 @@
+AOA.texture("benssharks_textures_entities_sardines",{"w":32,"h":32,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAN0lEQVR4XmMYBaMhMBoCoyEwGgKjITAaAqMhMBoCoyEwGgKjITAaAqMhMBoCAxkCaQU9/wc8BgBIDwJia7z6HQAAAABJRU5ErkJggg=="]);

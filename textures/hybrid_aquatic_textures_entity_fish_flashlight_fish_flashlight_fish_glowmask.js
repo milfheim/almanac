@@ -1,0 +1,1 @@
+AOA.texture("hybrid_aquatic_textures_entity_fish_flashlight_fish_flashlight_fish_glowmask",{"w":32,"h":32,"mips":false},["data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAPElEQVR4XmMYBaMhMBoCoyEwGgKjITAaAoM2BFqu/vvvd+DF/9EoGg2B0RAYDYHREBgNgdEQGA0BWocAAEc0BkxFYZ9BAAAAAElFTkSuQmCC"]);
